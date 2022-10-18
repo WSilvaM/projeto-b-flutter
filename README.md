@@ -1,4 +1,4 @@
-# app_figurinhas_copa22
+# app_f
 
 A new Flutter project.
 
